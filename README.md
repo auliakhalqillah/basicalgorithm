@@ -10,5 +10,8 @@ A collected codes of basic algorithms by using Python. This repository is used t
 8. Sorting a number in array from minimum to maximum
 9. Sorting a number in array from maximum to minimum
 
+# Tested
+Tested on Python 3.7.7
+
 # Contact
 eamil: auliakhalqillah.mail@gmail.com or personal@auliakhalqillah.com
